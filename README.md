@@ -4,7 +4,7 @@ InspiraAI is a simple yet inspiring web application that generates unique and th
 
 Whether you're looking for motivation, a fresh perspective, or just a beautiful phrase, InspiraAI is here to help!
 
-**➡️ Live Demo:** [**Access InspiraAI Live Here!**]([https://inspira-ai.onrender.com]) 🚀
+**➡️ Live Demo:** https://inspira-ai.onrender.com
 
 ## 🌟 Features
 
